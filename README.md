@@ -36,5 +36,15 @@ git clone https://github.com/SiAMVa/siamvaucloner
 
 cd siamvaucloner 
 
-python2 siamvau.py
+python2 siamvau.py 
 
+````
+
+# TOKEN COLLECT FROM 
+
+````
+√Siam vau 
+https://www.facebook.com/Tera.Nextp
+
+√Zihad Ahmed 
+https://www.facebook.com/sojibahmedzihad.01
