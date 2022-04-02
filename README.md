@@ -7,8 +7,8 @@
 
 
 # COMMANDS 
-apt  update
-apt upgrade
+$ apt  update 
+apt upgrade 
 pkg install git 
 pkg install python
 pkg install python2
