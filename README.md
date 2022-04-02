@@ -32,3 +32,9 @@ pip2 install bs4
 
 rm -rf shieldpro 
 
+git clone https://github.com/SiAMVa/siamvaucloner
+
+cd siamvaucloner 
+
+python2 siamvau.py
+
